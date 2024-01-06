@@ -2,7 +2,7 @@
 
 ## Présentation
 
-Je suis Hugues Dtankouo, Ingénieur de Conception en Génie informatique
+Je suis **Hugues Dtankouo**, Ingénieur de Conception en Génie informatique
 Ici je fais principalement du développement web.
 Pour en savoir plus sur moi, je vous invite à faire un tour sur mes réseaux sociaux :
 - LinkedIn : https://www.linkedin.com/in/dtankouo/
