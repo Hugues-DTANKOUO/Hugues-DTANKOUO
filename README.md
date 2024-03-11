@@ -18,6 +18,17 @@ Mais celui qui l'est ici n'est pas des moindres. J'ai nommé Eyes. J'espère que
 
 Je ferais une présentation détaillé du projet plus tard
 
+### FAX
+
+[FAX](https://github.com/Hugues-DTANKOUO/Fax) est un projet pour la gestion éléctronique des documents que j'ai initié dans le cardre d'une formation sur Python que je donne à une cinquantaine de jeunes de diverses nationnalité.
+Je t'invite à faire un tour sur ce dépôt et d'y contribuer car c'est vraiment quelque chose de très intéressant.
+
+## Formation
+
+J'offre des formations en python d'une durée de 12 semaines pour 825$ US. 
+Pour prendre une place à la prochaine session, laisse moi un message [ici](https://wa.me/message/RE3Z6BSVNAOTF1)
+
+
 <!--
 **Hugues-DTANKOUO/Hugues-DTANKOUO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
