@@ -14,7 +14,7 @@ La majeure partie des projets que j'ai réalisé étaient dans des entreprises e
 
 Mais celui qui l'est ici n'est pas des moindres. J'ai nommé Eyes. J'espère que dans 10ans si tu dois choisir un seul logiciel à utiliser pour le reste de ta vie, se sera celui-ci
 
-### EYES
+### [EYES](https://github.com/Hugues-DTANKOUO/eyes)
 
 Je ferais une présentation détaillé du projet plus tard
 
