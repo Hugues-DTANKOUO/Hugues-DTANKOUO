@@ -31,20 +31,21 @@ I am a **Python Trainer** with experience in corporate settings, having trained 
 - **Database Management**: PostgreSQL, MySQL, MongoDB.
 
 ### **Certifications**
-Holder of **13 professional certifications**, including:
+Holder of **14 professional certifications**, including:
   1. **PCPP1™ – Certified Professional Python Programmer Level 1** (2024).
   2. **PCAP™ – Certified Associate Python Programmer** (2024).
-  3. **PCEP™ – Certified Entry-Level Python Programmer** (2024).
-  4. **CPE – C++ Certified Entry-Level Programmer** (2024).
-  5. **SAFe 6 Agilist (SA)** (2024).
-  6. **SAFe 6 Product Owner/Product Manager (POPM)** (2023).
-  7. **SAFe 6 Scrum Master/Team Coach (SSM)** (2023).
-  8. **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** (2023).
-  9. **AWS Certified Cloud Practitioner (CLF-C02)** (2023).
-  10. **Google Cloud Platform — Cloud Digital Leader** (2023).
-  11. **Microsoft Certified: Azure Fundamentals (AZ-900)** (2023).
-  12. **Professional Scrum Product Owner I (PSPO I)** (2023).
-  13. **Professional Scrum Master I (PSM I)** (2023).
+  3. **PCET™ – Certified Entry-Level Tester with Python** (2025).
+  4. **PCEP™ – Certified Entry-Level Python Programmer** (2024).
+  5. **CPE – C++ Certified Entry-Level Programmer** (2024).
+  6. **SAFe 6 Agilist (SA)** (2024).
+  7. **SAFe 6 Product Owner/Product Manager (POPM)** (2023).
+  8. **SAFe 6 Scrum Master/Team Coach (SSM)** (2023).
+  9. **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** (2023).
+  10. **AWS Certified Cloud Practitioner (CLF-C02)** (2023).
+  11. **Google Cloud Platform — Cloud Digital Leader** (2023).
+  12. **Microsoft Certified: Azure Fundamentals (AZ-900)** (2023).
+  13. **Professional Scrum Product Owner I (PSPO I)** (2023).
+  14. **Professional Scrum Master I (PSM I)** (2023).
 
 ### **Other Expertise**
 - Agile Methodologies (SAFe, Scrum).
